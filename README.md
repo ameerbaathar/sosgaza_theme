@@ -1,5 +1,4 @@
-**#erpnext SOSGAZA Theme
-SOSGAZA Theme for ERPNext / Frappe**
+**#SOSGAZA Theme For ERPNext / Frappe**
 
 ![image](https://github.com/ameerbaathar/sosgaza_theme/assets/51360227/7a091b65-1aba-4d7b-a638-7dc28590081d)
 
